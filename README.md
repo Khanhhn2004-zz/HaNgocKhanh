@@ -1,31 +1,34 @@
-# Chào mừng bạn đến với GitHub của Hạ Ngọc Khánh!
+# My Story 
 
-## Giới thiệu
+## Introduction
 
-Xin chào, mình là Hạ Ngọc Khánh, một lập trình viên đam mê công nghệ. Mình luôn tìm kiếm cơ hội để học hỏi và đối mặt với các thách thức kỹ thuật.
+This is a story reader app designed for users who love literature and the art of storytelling. The app allows users to access and read fascinating stories, from well-known classics to unique and fresh works from various genres. Below is a description of the app's key features.
 
-## Kỹ năng
+## Key Features
 
-- Ngôn ngữ lập trình: Java, Kotlin
+### 1. Top Stories
 
-## Dự án
+The "Top Stories" feature enables users to easily discover the most popular and widely read stories. The app automatically ranks the stories based on the number of views and user interactions. Engaging, thrilling, and captivating works will appear in this list.
 
-### 1. Story App (Ứng dụng Đọc Truyện)
+### 2. Genres
 
-#### Giới thiệu
+The "Genres" feature allows users to effortlessly search for stories by different categories. All the story genres are listed clearly, and users can choose their favorite genres to explore matching stories.
 
-Story App là một dự án ứng dụng di động tuyệt vời dành cho việc đọc truyện. Mục tiêu của dự án là mang đến trải nghiệm đọc truyện tốt nhất cho người dùng trên điện thoại di động. Ứng dụng được xây dựng với giao diện đơn giản, thân thiện với người dùng và cung cấp một thư viện truyện đa dạng với nhiều thể loại hấp dẫn.
+### 3. Rankings
 
-#### Tính năng
+The "Rankings" feature provides a list of stories with the highest view counts within the month. This helps users quickly find the hottest and top-rated works recently.
 
-1. Thư viện truyện đa dạng
+### 4. Bookmark
 
-   - Story App cung cấp một thư viện truyện phong phú và đa dạng với các thể loại khác nhau, bao gồm tiểu thuyết, ngôn tình, phiêu lưu, kinh dị, hài hước, truyện tranh, truyện tranh Hàn Quốc (Manhwa), và truyện tranh Nhật Bản (Manga). Người dùng có thể dễ dàng tìm thấy và đọc những câu chuyện yêu thích theo sở thích cá nhân.
+The "Bookmark" feature enables users to store stories they are interested in and wish to read later. Users can mark their favorite stories for easy access and continue reading from where they left off.
 
-## Liên hệ
+## Installation and Usage
 
-- Email: NgocKhanh77909@gmail.com
-- LinkedIn: [Hạ Ngọc Khánh](https://www.linkedin.com/in/hangockhanh/)
-- ...
+* **System Requirements**: To use the story reader app, your device needs to support the compatible operating system and have an internet connection.
+* **Installation**: Download the app from the app store (App Store or Google Play) and install it following the on-screen instructions.
+* **Usage**: Open the app and explore its key features to read and experience fascinating stories.
 
-Cảm ơn đã ghé thăm GitHub của tôi! Nếu bạn quan tâm đến dự án hoặc có bất kỳ câu hỏi nào, xin vui lòng liên hệ qua email hoặc LinkedIn.
+## Contact and Support
+
+If you have any questions or feedback regarding the app, please contact us via email at Ngockhanh77909@gmail.com or call us at 123-456-7890. We look forward to receiving your feedback to improve and enhance the user experience.
+
